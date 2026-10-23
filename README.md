@@ -1,5 +1,8 @@
 # SensorSyncStudio介绍
 
+![support](./img/client.png)img
+
+
 ## 1.1支持平台
 
 ![support](./img/support.png)img
