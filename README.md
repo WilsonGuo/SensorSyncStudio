@@ -58,10 +58,13 @@ Windows 版本为免安装包。不要只复制 EXE 文件，Qt DLL、platforms 
 
 ## 2.1 识别正确的 DEBUG 端口
 
- 断开设备，点击刷新并记录端口列表。
- 重新连接设备，再次刷新。新增的 ttyUSB、ttyACM 或 COM 端口通常就是目标端口。
- 若设备提供多个串口，使用系统设备信息或逐个连接确认 DEBUG 输出。
- 连接后若日志持续出现 SRC、STATE、GNSS、UTC、LOCAL、Q 等状态行，说明 DEBUG 端口选择正确。
+1. 断开设备，点击刷新并记录端口列表。
+
+2. 重新连接设备，再次刷新。新增的 ttyUSB、ttyACM 或 COM 端口通常就是目标端口。
+
+3. 若设备提供多个串口，使用系统设备信息或逐个连接确认 DEBUG 输出。
+
+4. 连接后若日志持续出现 SRC、STATE、GNSS、UTC、LOCAL、Q 等状态行，说明 DEBUG 端口选择正确。
 
 ## 2.2 断开与重新连接
 
@@ -76,7 +79,7 @@ Windows 版本为免安装包。不要只复制 EXE 文件，Qt DLL、platforms 
 ![support](./img/QandA.png)
 
 
-# 7 卸载
+# 7. 卸载
 
 Ubuntu 版本：
 sudo apt remove gunda-sensor-sync-studio
