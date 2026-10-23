@@ -1,6 +1,8 @@
-# SensorSyncStudio
+# SensorSyncStudio介绍
 
+## 1.1支持平台
 
+![support](./img/support.png)img
 
 ## 1.2 Ubuntu 安装
 
@@ -68,6 +70,7 @@ Windows 版本为免安装包。不要只复制 EXE 文件，Qt DLL、platforms 
 志最多保留 10000 行，较早内容会自动移除。
 
 # 6. 常见问题
+![support](./img/QandA.png)img
 
 
 # 7 卸载
