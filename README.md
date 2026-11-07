@@ -7,6 +7,9 @@
 
 ![support](./img/client.png)
 
+##### 新增RTK配置界面，一步到位：
+
+![rtk](./img/rtk-config.png)
 
 ## 1.1支持平台
 
