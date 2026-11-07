@@ -1,5 +1,9 @@
 # SensorSyncStudio介绍
 
+## 说明
+
+该软件主要用于配套GundaSmart的硬件同步器和RTK定位设备，用户无需关心协议和配置参数，GUI可视化操作，简单且友好
+
 ## 下载
 
 最新安装包请在 [Releases](https://github.com/WilsonGuo/SensorSyncStudio/releases) 页面下载；各版本的升级说明见 [docs/](docs/)。
