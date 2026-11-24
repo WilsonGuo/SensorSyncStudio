@@ -23,13 +23,13 @@
 
 在安装包所在目录打开终端，按照系统版本选择对应 DEB。推荐使用 apt 安装，因为 apt 会自动处理依赖。
 
-sudo apt install ./gunda-sensor-sync-studio_1.1.0_amd64_ubuntu20.04.deb
+sudo apt install ./gunda-sensor-sync-studio_1.2.0_amd64_ubuntu20.04.deb
 
-sudo apt install ./gunda-sensor-sync-studio_1.1.0_amd64_ubuntu22.04.deb
+sudo apt install ./gunda-sensor-sync-studio_1.2.0_amd64_ubuntu22.04.deb
 
 也可以使用 dpkg。若提示缺少依赖，再执行 apt 修复。
 
-sudo dpkg -i gunda-sensor-sync-studio_1.1.0_amd64_ubuntu22.04.deb
+sudo dpkg -i gunda-sensor-sync-studio_1.2.0_amd64_ubuntu22.04.deb
 
 sudo apt-get install -f
 
