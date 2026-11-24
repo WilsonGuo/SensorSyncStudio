@@ -11,9 +11,13 @@
 
 ![support](./img/client.png)
 
-##### 新增RTK配置界面，一步到位：
+##### 1.新增RTK配置界面，一步到位：
 
 ![rtk](./img/rtk-config.png)
+
+##### 2.新增外参转换界面，方便外参转换：
+
+![rtk](./img/change-config.png)
 
 ## 1.1支持平台
 
