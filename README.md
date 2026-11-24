@@ -17,7 +17,7 @@
 
 ##### 2.新增外参转换界面，方便外参转换：
 
-![rtk](./img/change-config.png)
+![rtk](./img/change-config-all.png)
 
 ## 1.1支持平台
 
